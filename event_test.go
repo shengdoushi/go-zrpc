@@ -27,7 +27,7 @@ import (
 	"strings"
 	"testing"
 
-	"gotest.tools/assert"
+	"gotest.tools/v3/assert"
 )
 
 func TestEvent_MarshalUnmarshal(t *testing.T) {

@@ -29,7 +29,7 @@ import (
 
 	"github.com/pebbe/zmq4"
 	"github.com/pkg/errors"
-	"gotest.tools/assert"
+	"gotest.tools/v3/assert"
 )
 
 // TODO: We need tests using multiple goroutines to

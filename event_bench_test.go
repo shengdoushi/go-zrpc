@@ -25,7 +25,7 @@ package zrpc
 import (
 	"testing"
 
-	"gotest.tools/assert"
+	"gotest.tools/v3/assert"
 )
 
 // Point of reference for comparsion. Sending pile of zeros
